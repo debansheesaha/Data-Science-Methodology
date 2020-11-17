@@ -1,10 +1,11 @@
 # Data-Science-Methodology
 
-In this course you will learn about:
+In this course consists of:
 
         The major steps involved in tackling a data science problem.
         
-        The major steps involved in practicing data science, from forming a concrete business or research problem, to collecting and analyzing data, to building a model, and understanding the feedback after model deployment.
+        The major steps involved in practicing data science, from forming a concrete business or research problem, to collecting and analyzing data,
+        to building a model, and understanding the feedback after model deployment.
         
         How data scientists think through tackling interesting real-world examples. 
 
